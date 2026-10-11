@@ -1,0 +1,11 @@
+.gradle/
+build/
+out/
+run/
+*.iml
+.idea/
+.vscode/
+!libs/*.jar
+run/
+README.md
+PORTING_NOTES.md
